@@ -1,3 +1,19 @@
 body{
     background-color: rgb(238, 12, 12);
+    text-align: center;
+}
+h1{
+    font-style:italic;
+    color:rgb(90, 173, 255);
+}
+p{
+    color:black;
+}
+h2{
+    color:black;
+    font-style:italic;
+}
+h3{
+    color:black;
+    font-style:italic;
 }
